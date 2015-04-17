@@ -1,0 +1,8 @@
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\App.ComboBox2\App.ComboBox2\bin\Debug\App.ComboBox2.exe.config
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\App.ComboBox2\App.ComboBox2\bin\Debug\App.ComboBox2.exe
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\App.ComboBox2\App.ComboBox2\bin\Debug\App.ComboBox2.pdb
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\App.ComboBox2\App.ComboBox2\obj\Debug\App.ComboBox2.Form1.resources
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\App.ComboBox2\App.ComboBox2\obj\Debug\App.ComboBox2.Properties.Resources.resources
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\App.ComboBox2\App.ComboBox2\obj\Debug\App.ComboBox2.csproj.GenerateResource.Cache
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\App.ComboBox2\App.ComboBox2\obj\Debug\App.ComboBox2.exe
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\App.ComboBox2\App.ComboBox2\obj\Debug\App.ComboBox2.pdb
